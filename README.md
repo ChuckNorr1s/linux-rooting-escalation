@@ -20,4 +20,5 @@ https://pentestmonkey.net/tools/audit/unix-privesc-check
 The following command shows all services running as root:
 ```
 ps aux | grep "^root"
+
 ```
