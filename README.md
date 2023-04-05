@@ -1,4 +1,4 @@
-# linux-priviliege-escalation
+# linux-privilege-escalation
 Will provide some useful commands for Linux Privilege Escalation.
 
 # 1 Kernel exploitation/exploits
