@@ -18,7 +18,6 @@ https://pentestmonkey.net/tools/audit/unix-privesc-check
 
 # 2 Service Exploits
 The following command shows all services running as root:
-```
-ps aux | grep "^root"
 
-```
+```ps aux | grep "^root"```
+
