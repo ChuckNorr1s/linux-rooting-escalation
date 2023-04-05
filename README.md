@@ -5,3 +5,5 @@ Will provide some useful commands for Linux Privilege Escalation.
 command: searchsploit linux (version) (dist) priv esc 
 
 example: searchsploit linux kernel 5.9.0 debian priv esc
+
+another useful tool: https://github.com/jondonas/linux-exploit-suggester-2
