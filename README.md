@@ -8,8 +8,6 @@ To search for available kernel exploits for a specific version and distribution,
 
 ```searchsploit linux <version> <distribution> priv esc```
 
-mathematica
-
 
 For example:
 
@@ -72,7 +70,6 @@ This command displays the version of the Linux kernel currently running on the s
 - To check the version of the distribution, use the following command:
 
 ```lsb_release -a```
-
 
 
 This command displays information about the Linux distribution installed on the system, including its version.
