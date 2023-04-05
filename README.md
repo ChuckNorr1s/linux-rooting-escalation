@@ -6,4 +6,12 @@ command: searchsploit linux (version) (dist) priv esc
 
 example: searchsploit linux kernel 5.9.0 debian priv esc
 
-another useful tool: https://github.com/jondonas/linux-exploit-suggester-2
+other useful tools: 
+
+https://github.com/jondonas/linux-exploit-suggester-2
+
+https://github.com/linted/linuxprivchecker
+
+https://github.com/AlessandroZ/BeRoot
+
+https://pentestmonkey.net/tools/audit/unix-privesc-check
